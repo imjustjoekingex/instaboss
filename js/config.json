@@ -1,0 +1,23 @@
+{
+  "selectors":
+  {
+
+
+  },
+  "capture_patterns":{
+"post_count":"span.-nal3",
+    "follower_count":"a.-nal3[href$=followers\\/]",
+    "following_count":"a.-nal3[href$=following\\/]",
+      "open_suggested_followers":"button._5f5mN.-fzfL.KUBKM.yZn4P",
+    "all_sugggested_followers":"a.HUW1v[href$=similar_accounts\\/]"
+
+  },
+  "uri_rules":{
+    "profile_uri"
+
+  }
+
+
+
+
+}
